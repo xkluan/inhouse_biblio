@@ -1,0 +1,851 @@
+PMID- 38463186
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20240312
+IS  - 2319-9644 (Print)
+IS  - 2279-042X (Electronic)
+IS  - 2279-042X (Linking)
+VI  - 12
+IP  - 2
+DP  - 2023 Apr-Jun
+TI  - Role of Artificial Intelligence in Anesthesia: Revolutionizing Patient Safety and 
+      Care.
+PG  - 68
+LID - 10.4103/jrpp.jrpp_50_23 [doi]
+FAU - Garg, Ram Kumar
+AU  - Garg RK
+AD  - Department of Community Health Nursing, College of Nursing, Teerthanker Mahaveer 
+      University, Moradabad, Uttar Pradesh, India.
+LA  - eng
+PT  - Journal Article
+DEP - 20240131
+PL  - India
+TA  - J Res Pharm Pract
+JT  - Journal of research in pharmacy practice
+JID - 101614023
+PMC - PMC10923202
+COIS- There are no conflicts of interest.
+EDAT- 2024/03/11 06:42
+MHDA- 2024/03/11 06:43
+PMCR- 2024/01/31
+CRDT- 2024/03/11 04:17
+PHST- 2023/11/26 00:00 [received]
+PHST- 2023/12/14 00:00 [accepted]
+PHST- 2024/03/11 06:43 [medline]
+PHST- 2024/03/11 06:42 [pubmed]
+PHST- 2024/03/11 04:17 [entrez]
+PHST- 2024/01/31 00:00 [pmc-release]
+AID - JRPP-12-68 [pii]
+AID - 10.4103/jrpp.jrpp_50_23 [doi]
+PST - epublish
+SO  - J Res Pharm Pract. 2024 Jan 31;12(2):68. doi: 10.4103/jrpp.jrpp_50_23. 
+      eCollection 2023 Apr-Jun.
+
+PMID- 38333406
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20240210
+IS  - 1880-4276 (Print)
+IS  - 1883-2148 (Electronic)
+IS  - 1880-4276 (Linking)
+VI  - 40
+IP  - 1
+DP  - 2024 Feb
+TI  - General anesthesia enhances lesion quality and ablation efficiency of 
+      circumferential pulmonary vein isolation.
+PG  - 76-82
+LID - 10.1002/joa3.12960 [doi]
+AB  - BACKGROUND: Pulmonary vein isolation (PVI) is the cornerstone of atrial 
+      fibrillation (AF) ablation. General anesthesia (GA) resolves the problem of pain 
+      intolerability and provides regular respiratory mode which might improve the 
+      catheter maneuverability of AF ablation. This study aims to compare the 
+      procedural performance of PVI under GA versus conscious sedation (CS) from 
+      multiple perspectives. METHODS: A total of 36 consecutive patients undergoing 
+      first AF ablation under GA were enrolled in GA group. Another 109 patients 
+      receiving AF ablation under CS in the same period were selected as the control 
+      group. After propensity score matching, 29 matched pairs with similar baseline 
+      characteristics were available for further analysis. The AIFV (using AI to 
+      analyze the raw data from CARTO3 system) system was used to evaluate six 
+      procedural parameters in each PVI procedure. RESULTS: Compared with CS, PVI under 
+      GA had a significantly shorter total PVI time (51.4 min vs. 67.8 min; p = .003) 
+      and higher radiofrequency ratio (62.6% vs. 55.8%; p = .032). The number of gaps 
+      (1.0 vs. 3.0; p < .001) and the rate of break point were significantly lower in 
+      the GA group. GA was also associated with a higher effective ablation-index ratio 
+      (87.5% vs. 74.1%; p < .001) and effective force-over-time ratio (85.3% vs. 69.2%; 
+      p = .001). After a medium follow-up time of 24 months, 12/29 (41.4%) patients in 
+      the CS group and 6/29 (20.7%) patients in the GA group suffered from AF 
+      recurrence (p = .156). CONCLUSIONS: GA improves the lesion quality and procedural 
+      efficiency of PVI from multiple perspectives evaluated by the AIFV system.
+CI  - © 2023 The Authors. Journal of Arrhythmia published by John Wiley & Sons 
+      Australia, Ltd on behalf of Japanese Heart Rhythm Society.
+FAU - Wang, Kexin
+AU  - Wang K
+AD  - Division of Cardiology The First Affiliated Hospital of Nanjing Medical 
+      University Nanjing China.
+FAU - Jin, Caiyi
+AU  - Jin C
+AD  - Division of Cardiology The First Affiliated Hospital of Nanjing Medical 
+      University Nanjing China.
+FAU - Chen, Hongwu
+AU  - Chen H
+AD  - Division of Cardiology The First Affiliated Hospital of Nanjing Medical 
+      University Nanjing China.
+FAU - Yang, Gang
+AU  - Yang G
+AD  - Division of Cardiology The First Affiliated Hospital of Nanjing Medical 
+      University Nanjing China.
+FAU - Liu, Hailei
+AU  - Liu H
+AD  - Division of Cardiology The First Affiliated Hospital of Nanjing Medical 
+      University Nanjing China.
+FAU - Wang, Zidun
+AU  - Wang Z
+AD  - Division of Cardiology The First Affiliated Hospital of Nanjing Medical 
+      University Nanjing China.
+FAU - Jiang, Xiaohong
+AU  - Jiang X
+AD  - Division of Cardiology The First Affiliated Hospital of Nanjing Medical 
+      University Nanjing China.
+FAU - Ju, Weizhu
+AU  - Ju W
+AD  - Division of Cardiology The First Affiliated Hospital of Nanjing Medical 
+      University Nanjing China.
+FAU - Chen, Minglong
+AU  - Chen M
+AUID- ORCID: 0000-0002-9844-486X
+AD  - Division of Cardiology The First Affiliated Hospital of Nanjing Medical 
+      University Nanjing China.
+LA  - eng
+PT  - Journal Article
+DEP - 20231127
+PL  - Japan
+TA  - J Arrhythm
+JT  - Journal of arrhythmia
+JID - 101263026
+PMC - PMC10848594
+OTO - NOTNLM
+OT  - atrial fibrillation
+OT  - catheter ablation
+OT  - conscious sedation
+OT  - general anesthesia
+OT  - pulmonary vein isolation
+COIS- The authors have no conflict of interest to declare.
+EDAT- 2024/02/09 06:42
+MHDA- 2024/02/09 06:43
+PMCR- 2023/11/27
+CRDT- 2024/02/09 03:59
+PHST- 2023/07/20 00:00 [received]
+PHST- 2023/10/30 00:00 [revised]
+PHST- 2023/11/06 00:00 [accepted]
+PHST- 2024/02/09 06:43 [medline]
+PHST- 2024/02/09 06:42 [pubmed]
+PHST- 2024/02/09 03:59 [entrez]
+PHST- 2023/11/27 00:00 [pmc-release]
+AID - JOA312960 [pii]
+AID - 10.1002/joa3.12960 [doi]
+PST - epublish
+SO  - J Arrhythm. 2023 Nov 27;40(1):76-82. doi: 10.1002/joa3.12960. eCollection 2024 
+      Feb.
+
+PMID- 38274882
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20240128
+IS  - 1664-2295 (Print)
+IS  - 1664-2295 (Electronic)
+IS  - 1664-2295 (Linking)
+VI  - 14
+DP  - 2023
+TI  - Random forest algorithm for predicting postoperative delirium in older patients.
+PG  - 1325941
+LID - 10.3389/fneur.2023.1325941 [doi]
+LID - 1325941
+AB  - OBJECTIVE: In this study, we were aimed to identify important variables via 
+      machine learning algorithms and predict postoperative delirium (POD) occurrence 
+      in older patients. METHODS: This study was to make the secondary analysis of data 
+      from a randomized controlled trial. The Boruta function was used to screen 
+      relevant basic characteristic variables. Four models including Logistic 
+      Regression (LR), K-Nearest Neighbor (KNN), the Classification and Regression Tree 
+      (CART), and Random Forest (RF) were established from the data set using repeated 
+      cross validation, hyper-parameter optimization, and Smote technique (Synthetic 
+      minority over-sampling technique, Smote), with the calculation of confusion 
+      matrix parameters and the plotting of Receiver operating characteristic curve 
+      (ROC), Precision recall curve (PRC), and partial dependence graph for further 
+      analysis and evaluation. RESULTS: The basic characteristic variables resulting 
+      from Boruta screening included grouping, preoperative Mini-Mental State 
+      Examination(MMSE), CHARLSON score, preoperative HCT, preoperative serum 
+      creatinine, intraoperative bleeding volume, intraoperative urine volume, 
+      anesthesia duration, operation duration, postoperative morphine dosage, intensive 
+      care unit (ICU) duration, tracheal intubation duration, and 7-day postoperative 
+      rest and move pain score (median and max; VAS-Rest-M, VAS-Move-M, VAS-Rest-Max, 
+      and VAS-Move-Max). And Random Forest (RF) showed the best performance in the 
+      testing set among the 4 models with Accuracy: 0.9878; Matthews correlation 
+      coefficient (MCC): 0.8763; Area under ROC curve (AUC-ROC): 1.0; Area under the 
+      PRC Curve (AUC-PRC): 1.0. CONCLUSION: A high-performance algorithm was 
+      established and verified in this study demonstrating the degree of POD risk 
+      changes in perioperative elderly patients. And the major risk factors for the 
+      development of POD were CREA and VAS-Move-Max.
+CI  - Copyright © 2024 Sheng, Tang, Hu, Liu, Liu, Miao, Wang and Li.
+FAU - Sheng, Weixuan
+AU  - Sheng W
+AD  - Department of Anesthesiology, Beijing Shijitan Hospital, Capital Medical 
+      University, Beijing, China.
+FAU - Tang, Xianshi
+AU  - Tang X
+AD  - Key Laboratory of National Health Commission on Parasitic Disease Control and 
+      Prevention, Key Laboratory of Jiangsu Province on Parasite and Vector Control 
+      Technology, Jiangsu Institute of Parasitic Diseases, Wuxi, China.
+FAU - Hu, Xiaoyun
+AU  - Hu X
+AD  - Department of Anesthesiology, Beijing Shijitan Hospital, Capital Medical 
+      University, Beijing, China.
+FAU - Liu, Pengfei
+AU  - Liu P
+AD  - Department of Anesthesiology, Beijing Shijitan Hospital, Capital Medical 
+      University, Beijing, China.
+FAU - Liu, Lei
+AU  - Liu L
+AD  - Department of Science and Technology, Beijing Shijitan Hospital, Capital Medical 
+      University, Beijing, China.
+FAU - Miao, Huihui
+AU  - Miao H
+AD  - Department of Anesthesiology, Beijing Shijitan Hospital, Capital Medical 
+      University, Beijing, China.
+FAU - Wang, Dongxin
+AU  - Wang D
+AD  - Department of Anesthesiology, Peking University First Hospital, Beijing, China.
+FAU - Li, Tianzuo
+AU  - Li T
+AD  - Department of Anesthesiology, Beijing Shijitan Hospital, Capital Medical 
+      University, Beijing, China.
+LA  - eng
+PT  - Journal Article
+DEP - 20240111
+PL  - Switzerland
+TA  - Front Neurol
+JT  - Frontiers in neurology
+JID - 101546899
+PMC - PMC10808713
+OTO - NOTNLM
+OT  - confusion matrix
+OT  - older patient
+OT  - partial dependence graph
+OT  - postoperative delirium
+OT  - random forest
+COIS- The authors declare that the research was conducted in the absence of any 
+      commercial or financial relationships that could be construed as a potential 
+      conflict of interest.
+EDAT- 2024/01/26 06:43
+MHDA- 2024/01/26 06:44
+PMCR- 2024/01/11
+CRDT- 2024/01/26 04:00
+PHST- 2023/10/22 00:00 [received]
+PHST- 2023/12/29 00:00 [accepted]
+PHST- 2024/01/26 06:44 [medline]
+PHST- 2024/01/26 06:43 [pubmed]
+PHST- 2024/01/26 04:00 [entrez]
+PHST- 2024/01/11 00:00 [pmc-release]
+AID - 10.3389/fneur.2023.1325941 [doi]
+PST - epublish
+SO  - Front Neurol. 2024 Jan 11;14:1325941. doi: 10.3389/fneur.2023.1325941. 
+      eCollection 2023.
+
+PMID- 38255191
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20240201
+IS  - 2227-9059 (Print)
+IS  - 2227-9059 (Electronic)
+IS  - 2227-9059 (Linking)
+VI  - 12
+IP  - 1
+DP  - 2023 Dec 29
+TI  - Antinociceptive Effects of Cannabichromene (CBC) in Mice: Insights from von Frey, 
+      Tail-Flick, Formalin, and Acetone Tests.
+LID - 10.3390/biomedicines12010083 [doi]
+LID - 83
+AB  - Cannabis sativa contains minor cannabinoids that have potential therapeutic value 
+      in pain management. However, detailed experimental evidence for the 
+      antinociceptive effects of many of these minor cannabinoids remains lacking. 
+      Here, we employed artificial intelligence (AI) to perform compound-protein 
+      interaction estimates with cannabichromene (CBC) and receptors involved in 
+      nociceptive signaling. Based on our findings, we investigated the antinociceptive 
+      properties of CBC in naïve or neuropathic C57BL/6 male and female mice using von 
+      Frey (mechanical allodynia), tail-flick (noxious radiant heat), formalin (acute 
+      and persistent inflammatory pain), and acetone (cold thermal) tests. For von Frey 
+      assessments, CBC dose (0-20 mg/kg, i.p.) and time (0-6 h) responses were measured 
+      in male and female neuropathic mice. For tail-flick, formalin, and acetone 
+      assays, CBC (20 mg/kg, i.p.) was administered to naïve male and female mice 1 h 
+      prior to testing. The results show that CBC (10 and 20 mg/kg, i.p.) significantly 
+      reduced mechanical allodynia in neuropathic male and female mice 1-2 h after 
+      treatment. Additionally, CBC treatment caused significant reductions in 
+      nociceptive behaviors in the tail-flick assay and in both phase 1 and phase 2 of 
+      the formalin test. Finally, we found a significant interaction in neuropathic 
+      male mice in the acetone test. In conclusion, our results suggest that CBC 
+      targets receptors involved in nociceptive signaling and imparts antinociceptive 
+      properties that may benefit males and females afflicted with diverse forms of 
+      acute or chronic/persistent pain.
+FAU - Raup-Konsavage, Wesley M
+AU  - Raup-Konsavage WM
+AUID- ORCID: 0000-0001-9413-9852
+AD  - Department of Pharmacology, Penn State College of Medicine, Hershey, PA 17033, 
+      USA.
+FAU - Sepulveda, Diana E
+AU  - Sepulveda DE
+AD  - Department of Pharmacology, Penn State College of Medicine, Hershey, PA 17033, 
+      USA.
+AD  - Department of Anesthesiology & Perioperative Medicine, Penn State College of 
+      Medicine, Hershey, PA 17033, USA.
+FAU - Wang, Jian
+AU  - Wang J
+AD  - Department of Pharmacology, Penn State College of Medicine, Hershey, PA 17033, 
+      USA.
+FAU - Dokholyan, Nikolay V
+AU  - Dokholyan NV
+AUID- ORCID: 0000-0002-8225-4025
+AD  - Department of Pharmacology, Penn State College of Medicine, Hershey, PA 17033, 
+      USA.
+AD  - Department of Biochemistry & Molecular Biology, Penn State College of Medicine, 
+      Hershey, PA 17033, USA.
+AD  - Department of Chemistry, Penn State University, University Park, PA 16802, USA.
+AD  - Department of Biomedical Engineering, Penn State University, University Park, PA 
+      16802, USA.
+FAU - Vrana, Kent E
+AU  - Vrana KE
+AUID- ORCID: 0000-0003-4902-7733
+AD  - Department of Pharmacology, Penn State College of Medicine, Hershey, PA 17033, 
+      USA.
+FAU - Graziane, Nicholas M
+AU  - Graziane NM
+AD  - Department of Pharmacology, Penn State College of Medicine, Hershey, PA 17033, 
+      USA.
+AD  - Department of Anesthesiology & Perioperative Medicine, Penn State College of 
+      Medicine, Hershey, PA 17033, USA.
+LA  - eng
+GR  - R01 AT012053/AT/NCCIH NIH HHS/United States
+GR  - R01AT012053-01/AT/NCCIH NIH HHS/United States
+PT  - Journal Article
+DEP - 20231229
+PL  - Switzerland
+TA  - Biomedicines
+JT  - Biomedicines
+JID - 101691304
+PMC - PMC10813533
+OTO - NOTNLM
+OT  - cannabichromene
+OT  - cannabinoids
+OT  - cannabis
+OT  - inflammatory pain
+OT  - neuropathic pain
+OT  - pain
+COIS- The authors declare no conflicts of interest.
+EDAT- 2024/01/23 06:43
+MHDA- 2024/01/23 06:44
+PMCR- 2023/12/29
+CRDT- 2024/01/23 01:06
+PHST- 2023/11/22 00:00 [received]
+PHST- 2023/12/12 00:00 [revised]
+PHST- 2023/12/27 00:00 [accepted]
+PHST- 2024/01/23 06:44 [medline]
+PHST- 2024/01/23 06:43 [pubmed]
+PHST- 2024/01/23 01:06 [entrez]
+PHST- 2023/12/29 00:00 [pmc-release]
+AID - biomedicines12010083 [pii]
+AID - biomedicines-12-00083 [pii]
+AID - 10.3390/biomedicines12010083 [doi]
+PST - epublish
+SO  - Biomedicines. 2023 Dec 29;12(1):83. doi: 10.3390/biomedicines12010083.
+
+PMID- 38204484
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20240112
+IS  - 2296-858X (Print)
+IS  - 2296-858X (Electronic)
+IS  - 2296-858X (Linking)
+VI  - 10
+DP  - 2023
+TI  - Muscle-related parameters-based machine learning model for predicting 
+      postinduction hypotension in patients undergoing colorectal tumor resection 
+      surgery.
+PG  - 1283503
+LID - 10.3389/fmed.2023.1283503 [doi]
+LID - 1283503
+AB  - OBJECTIVES: This study used machine learning algorithms to identify important 
+      variables and predict postinduction hypotension (PIH) in patients undergoing 
+      colorectal tumor resection surgery. METHODS: Data from 318 patients who underwent 
+      colorectal tumor resection under general anesthesia were analyzed. The training 
+      and test sets are divided based on the timeline. The Boruta algorithm was used to 
+      screen relevant basic characteristic variables and establish a model for the 
+      training set. Four models, regression tree, K-nearest neighbor, neural network, 
+      and random forest (RF), were built using repeated cross-validation and 
+      hyperparameter optimization. The best model was selected, and a sorting chart of 
+      the feature variables, a univariate partial dependency profile, and a breakdown 
+      profile were drawn. R(2), mean absolute error (MAE), mean squared error (MSE), 
+      and root MSE (RMSE) were used to plot regression fitting curves for the training 
+      and test sets. RESULTS: The basic feature variables associated with the Boruta 
+      screening were age, sex, body mass index, L3 skeletal muscle index, and HUAC. In 
+      the optimal RF model, R(2) was 0.7708 and 0.7591, MAE was 0.0483 and 0.0408, MSE 
+      was 0.0038 and 0.0028, and RMSE was 0.0623 and 0.0534 for the training and test 
+      sets, respectively. CONCLUSION: A high-performance algorithm was established and 
+      validated to demonstrate the degree of change in blood pressure after induction 
+      to control important characteristic variables and reduce PIH occurrence.
+CI  - Copyright © 2023 Sheng, Gao, Liu, Song, Liu, Miao and Li.
+FAU - Sheng, Weixuan
+AU  - Sheng W
+AD  - Department of Anesthesiology, Beijing Shijitan Hospital, Capital Medical 
+      University, Beijing, China.
+FAU - Gao, Danyang
+AU  - Gao D
+AD  - Department of Anesthesiology, Beijing Shijitan Hospital, Capital Medical 
+      University, Beijing, China.
+FAU - Liu, Pengfei
+AU  - Liu P
+AD  - Department of Anesthesiology, Beijing Shijitan Hospital, Capital Medical 
+      University, Beijing, China.
+FAU - Song, Mingxue
+AU  - Song M
+AD  - Department of Anesthesiology, Beijing Shijitan Hospital, Capital Medical 
+      University, Beijing, China.
+FAU - Liu, Lei
+AU  - Liu L
+AD  - Department of Science and Technology, Beijing Shijitan Hospital, Capital Medical 
+      University, Beijing, China.
+FAU - Miao, Huihui
+AU  - Miao H
+AD  - Department of Anesthesiology, Beijing Shijitan Hospital, Capital Medical 
+      University, Beijing, China.
+FAU - Li, Tianzuo
+AU  - Li T
+AD  - Department of Anesthesiology, Beijing Shijitan Hospital, Capital Medical 
+      University, Beijing, China.
+LA  - eng
+PT  - Journal Article
+DEP - 20231227
+PL  - Switzerland
+TA  - Front Med (Lausanne)
+JT  - Frontiers in medicine
+JID - 101648047
+PMC - PMC10777389
+OTO - NOTNLM
+OT  - Boruta
+OT  - machine learning
+OT  - partial dependence profile
+OT  - postinduction hypotension
+OT  - regression fitting curve
+COIS- The authors declare that the research was conducted in the absence of any 
+      commercial or financial relationships that could be construed as a potential 
+      conflict of interest.
+EDAT- 2024/01/11 07:43
+MHDA- 2024/01/11 07:44
+PMCR- 2023/12/27
+CRDT- 2024/01/11 03:58
+PHST- 2023/09/22 00:00 [received]
+PHST- 2023/12/06 00:00 [accepted]
+PHST- 2024/01/11 07:44 [medline]
+PHST- 2024/01/11 07:43 [pubmed]
+PHST- 2024/01/11 03:58 [entrez]
+PHST- 2023/12/27 00:00 [pmc-release]
+AID - 10.3389/fmed.2023.1283503 [doi]
+PST - epublish
+SO  - Front Med (Lausanne). 2023 Dec 27;10:1283503. doi: 10.3389/fmed.2023.1283503. 
+      eCollection 2023.
+
+PMID- 38179347
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20240106
+IS  - 2168-8184 (Print)
+IS  - 2168-8184 (Electronic)
+IS  - 2168-8184 (Linking)
+VI  - 15
+IP  - 12
+DP  - 2023 Dec
+TI  - Adrenal Crisis During Cesarean Section in a Patient With Primary Adrenal 
+      Insufficiency.
+PG  - e49964
+LID - 10.7759/cureus.49964 [doi]
+LID - e49964
+AB  - Congenital adrenal hyperplasia (CAH) is a type of primary adrenal insufficiency 
+      (AI) that predisposes to adrenal crisis (AC) during stress. We describe a case of 
+      a primipara with CAH who was admitted in labor. To prevent AC, glucocorticoid 
+      replacement was given according to guidelines. Due to fetal decelerations, an 
+      emergency C-section was performed under general anesthesia following which 
+      refractory hypotension emerged. The diagnosis of AC was considered, and 
+      hydrocortisone was given with sustained hemodynamic improvement. AC is a 
+      life-threatening emergency whose diagnosis requires a high index of suspicion. 
+      Despite adequate steroid coverage, additional stressors may precipitate AC, so it 
+      is of paramount importance that anesthesiologists consider this emergency.
+CI  - Copyright © 2023, Pestana et al.
+FAU - Pestana, Inês
+AU  - Pestana I
+AD  - Anesthesiology, Centro Hospitalar Universitário de Santo António, Porto, PRT.
+FAU - Guimarães, Henrique
+AU  - Guimarães H
+AD  - Anesthesiology, Centro Hospitalar Universitário de Santo António, Porto, PRT.
+FAU - Saraiva, Alexandra
+AU  - Saraiva A
+AD  - Anesthesiology, Centro Hospitalar Universitário de Santo António, Porto, PRT.
+FAU - Veiga, Dalila
+AU  - Veiga D
+AD  - Anesthesiology, Centro Hospitalar Universitário de Santo António, Porto, PRT.
+FAU - Machado, Humberto
+AU  - Machado H
+AD  - Anesthesiology, Centro Hospitalar Universitário de Santo António, Porto, PRT.
+LA  - eng
+PT  - Case Reports
+DEP - 20231205
+PL  - United States
+TA  - Cureus
+JT  - Cureus
+JID - 101596737
+PMC - PMC10765761
+OTO - NOTNLM
+OT  - adrenal crisis
+OT  - cardiovascular collapse
+OT  - congenital adrenal hyperplasia
+OT  - life-threatening emergency
+OT  - obstetric anesthesia
+OT  - primary adrenal insufficiency
+COIS- The authors have declared that no competing interests exist.
+EDAT- 2024/01/05 06:43
+MHDA- 2024/01/05 06:44
+PMCR- 2023/12/05
+CRDT- 2024/01/05 03:58
+PHST- 2023/12/04 00:00 [accepted]
+PHST- 2024/01/05 06:44 [medline]
+PHST- 2024/01/05 06:43 [pubmed]
+PHST- 2024/01/05 03:58 [entrez]
+PHST- 2023/12/05 00:00 [pmc-release]
+AID - 10.7759/cureus.49964 [doi]
+PST - epublish
+SO  - Cureus. 2023 Dec 5;15(12):e49964. doi: 10.7759/cureus.49964. eCollection 2023 
+      Dec.
+
+PMID- 38178349
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240108
+LR  - 20240108
+IS  - 1522-6662 (Electronic)
+IS  - 1098-3511 (Linking)
+VI  - 26
+IP  - 6
+DP  - 2023 Dec 18
+TI  - Identification of Anesthetic-Induced Cardiovascular Biomarkers in Off-Pump 
+      Coronary Artery Bypass Grafting Surgery Using Weighted Gene Co-Expression Network 
+      Analysis and Machine Learning.
+PG  - E740-E754
+LID - 10.59958/hsf.6809 [doi]
+AB  - BACKGROUND: This study aimed to select anesthesia-induced zinc finger 
+      protein-related gene biomarkers that predict cardiovascular function during 
+      off-pump coronary artery bypass grafting (OPCABG). METHODS: Gene expression data 
+      from GSE4386 included 20 post-anesthesia and 20 pre-anesthesia atrial tissue 
+      samples. Zinc finger protein-related genes (ZFPRGs) were searched in the UniProt 
+      database and anesthesia-induced differentially expressed genes (DEGs) were 
+      identified Weighted gene co-expression network analysis (WGCNA) was used to 
+      screen hub genes, and three machine learning algorithms were used to further 
+      screen for cardiovascular biomarkers. Diagnostic accuracy was evaluated using a 
+      nomogram model. Gene set enrichment analysis was used to analyze the pathways 
+      enriched by the biomarkers. A microRNA (miRNA)-mRNA-transcription factor (TF) 
+      regulatory network was established to explore the potential regulatory mechanisms 
+      of these biomarkers. Disease-related drugs were predicted using the Comparative 
+      Toxicogenomics Database (CTD). RESULTS: A total of 1102 cardioprotection-related 
+      DEGs were selected between the pre- and post-anesthesia groups. Additionally, 
+      1095 hub genes were obtained based on WGCNA, and 2274 ZFPRGs were downloaded from 
+      the UniProt database. After Venn analysis and machine learning, ZNF420, RNF135, 
+      and BNC2 were selected as cardioprotection-related zinc finger biomarkers during 
+      OPCABG. Receiver operating characteristic (ROC) curves and nomogram models 
+      confirmed the diagnostic value and accuracy of the three cardioprotective 
+      biomarkers. Pathway enrichment analysis revealed that ZNF420 is involved in the 
+      cell cycle and the tricarboxylic acid cycle. RNF135 and BNC2 were enriched in the 
+      oxidative phosphorylation pathway. In the constructed miRNA-mRNA-TF network, 
+      miR-182-5p and miR-16-5p simultaneously regulated three cardioprotective 
+      biomarkers. CONCLUSION: Three cardioprotection-related zinc finger protein 
+      biomarkers (ZNF420, RNF135, and BNC2) were identified using OPCABG samples.
+FAU - Hou, Jinxiu
+AU  - Hou J
+AD  - School of Anesthesiology, Weifang Medical University, 261053 Weifang, Shandong, 
+      China. JinxiuHo@163.com.
+FAU - Li, Jing
+AU  - Li J
+AD  - Department of Gastroenterology, Weifang People's Hospital, 261041 Weifang, 
+      Shandong, China. ljing1101@126.com.
+LA  - eng
+PT  - Journal Article
+DEP - 20231218
+PL  - United States
+TA  - Heart Surg Forum
+JT  - The heart surgery forum
+JID - 100891112
+RN  - 0 (Anesthetics)
+RN  - 0 (MicroRNAs)
+RN  - 0 (Biomarkers)
+RN  - 0 (RNA, Messenger)
+RN  - EC 2.3.2.27 (RNF135 protein, human)
+RN  - EC 2.3.2.27 (Ubiquitin-Protein Ligases)
+SB  - IM
+MH  - Humans
+MH  - *Anesthetics
+MH  - *MicroRNAs
+MH  - Biomarkers
+MH  - *Coronary Artery Bypass, Off-Pump/adverse effects
+MH  - Machine Learning
+MH  - RNA, Messenger
+MH  - Ubiquitin-Protein Ligases
+EDAT- 2024/01/05 06:43
+MHDA- 2024/01/08 06:43
+CRDT- 2024/01/05 00:22
+PHST- 2023/09/10 00:00 [received]
+PHST- 2023/11/01 00:00 [accepted]
+PHST- 2024/01/08 06:43 [medline]
+PHST- 2024/01/05 06:43 [pubmed]
+PHST- 2024/01/05 00:22 [entrez]
+AID - 10.59958/hsf.6809 [doi]
+PST - epublish
+SO  - Heart Surg Forum. 2023 Dec 18;26(6):E740-E754. doi: 10.59958/hsf.6809.
+
+PMID- 38174199
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20240105
+IS  - 2168-8184 (Print)
+IS  - 2168-8184 (Electronic)
+IS  - 2168-8184 (Linking)
+VI  - 15
+IP  - 12
+DP  - 2023 Dec
+TI  - Revolutionizing Patient Care: A Comprehensive Review of Artificial Intelligence 
+      Applications in Anesthesia.
+PG  - e49887
+LID - 10.7759/cureus.49887 [doi]
+LID - e49887
+AB  - This review explores the intersection of artificial intelligence (AI) and 
+      anesthesia, examining its transformative impact on patient care across various 
+      phases. Beginning with a historical overview of anesthesia, we highlight the 
+      critical role of technological advancements in ensuring optimal patient outcomes. 
+      The emergence of AI in healthcare sets the stage for a comprehensive analysis of 
+      its applications in anesthesia. In the preoperative phase, AI facilitates 
+      personalized risk assessments and decision support, optimizing anesthesia 
+      planning and drug dosage predictions. Moving to the intraoperative phase, we 
+      delve into AI's role in monitoring and control through sophisticated anesthesia 
+      monitoring and closed-loop systems. Additionally, we discuss the integration of 
+      robotics and AI-guided procedures, revolutionizing surgical assistance. 
+      Transitioning to the postoperative phase, we explore AI-driven postoperative 
+      monitoring, predictive analysis for complications, and the integration of AI into 
+      rehabilitation programs and long-term follow-up. These new applications redefine 
+      patient recovery, emphasizing personalized care and proactive interventions. 
+      However, the integration of AI in anesthesia poses challenges and ethical 
+      considerations. Data security, interpretability, and bias in AI algorithms demand 
+      scrutiny. Moreover, the evolving patient-doctor relationship in an AI-driven care 
+      landscape requires a delicate balance between efficiency and human touch. Looking 
+      forward, we discuss the future directions of AI in anesthesia, anticipating 
+      advances in technology and AI algorithms. The integration of AI into routine 
+      clinical practice and its potential impact on anesthesia education and training 
+      are explored, emphasizing the need for collaboration, education, and ethical 
+      guidelines. This review provides a comprehensive overview of AI applications in 
+      anesthesia, offering insights into the present landscape, challenges, and future 
+      directions. The synthesis of historical perspectives, current applications, and 
+      future possibilities underscores the transformative potential of AI in 
+      revolutionizing patient care within the dynamic field of anesthesia.
+CI  - Copyright © 2023, Singam et al.
+FAU - Singam, Amol
+AU  - Singam A
+AD  - Critical Care Medicine, Jawaharlal Nehru Medical College, Datta Meghe Institute 
+      of Higher Education and Research, Wardha, IND.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20231204
+PL  - United States
+TA  - Cureus
+JT  - Cureus
+JID - 101596737
+PMC - PMC10762564
+OTO - NOTNLM
+OT  - anesthesia monitoring
+OT  - artificial intelligence in anesthesia
+OT  - ethical considerations
+OT  - future healthcare technologies
+OT  - patient care
+OT  - precision medicine
+COIS- The authors have declared that no competing interests exist.
+EDAT- 2024/01/04 11:44
+MHDA- 2024/01/04 11:45
+PMCR- 2023/12/04
+CRDT- 2024/01/04 04:20
+PHST- 2023/11/24 00:00 [received]
+PHST- 2023/12/03 00:00 [accepted]
+PHST- 2024/01/04 11:45 [medline]
+PHST- 2024/01/04 11:44 [pubmed]
+PHST- 2024/01/04 04:20 [entrez]
+PHST- 2023/12/04 00:00 [pmc-release]
+AID - 10.7759/cureus.49887 [doi]
+PST - epublish
+SO  - Cureus. 2023 Dec 4;15(12):e49887. doi: 10.7759/cureus.49887. eCollection 2023 
+      Dec.
+
+PMID- 38161675
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20240103
+IS  - 2772-8129 (Electronic)
+IS  - 2772-8129 (Linking)
+VI  - 2
+IP  - 6Part A
+DP  - 2023 Dec
+TI  - The Lifelong Impact of Artificial Intelligence and Clinical Prediction Models on 
+      Patients With Tetralogy of Fallot.
+PG  - 440-452
+LID - 10.1016/j.cjcpc.2023.08.005 [doi]
+AB  - Medical advancements in the diagnosis, surgical techniques, perioperative care, 
+      and continued care throughout childhood have transformed the outlook for 
+      individuals with tetralogy of Fallot (TOF), improving survival and shifting the 
+      perspective towards lifelong care. However, with a growing population of 
+      survivors, longstanding challenges have been accentuated, and new challenges have 
+      surfaced, necessitating a re-evaluation of TOF care. Availability of prenatal 
+      diagnostics, insufficient information from traditional imaging techniques, 
+      previously unforeseen medical complications, and debates surrounding optimal 
+      timing and indications for reintervention are among the emerging issues. To 
+      address these challenges, the integration of artificial intelligence and machine 
+      learning holds great promise as they have the potential to revolutionize patient 
+      management and positively impact lifelong outcomes for individuals with TOF. 
+      Innovative applications of artificial intelligence and machine learning have 
+      spanned across multiple domains of TOF care, including screening and diagnosis, 
+      automated image processing and interpretation, clinical risk stratification, and 
+      planning and performing cardiac interventions. By embracing these advancements 
+      and incorporating them into routine clinical practice, personalized medicine 
+      could be delivered, leading to the best possible outcomes for patients. In this 
+      review, we provide an overview of these evolving applications and emphasize the 
+      challenges, limitations, and future potential for integrating them into clinical 
+      care.
+CI  - © 2023 The Author(s).
+FAU - Jacquemyn, Xander
+AU  - Jacquemyn X
+AD  - Blalock-Taussig-Thomas Pediatric and Congenital Heart Center, Department of 
+      Pediatrics, Johns Hopkins School of Medicine, Baltimore, Maryland, USA.
+AD  - Department of Cardiovascular Sciences, KU Leuven, Leuven, Belgium.
+FAU - Kutty, Shelby
+AU  - Kutty S
+AD  - Blalock-Taussig-Thomas Pediatric and Congenital Heart Center, Department of 
+      Pediatrics, Johns Hopkins School of Medicine, Baltimore, Maryland, USA.
+FAU - Manlhiot, Cedric
+AU  - Manlhiot C
+AD  - Blalock-Taussig-Thomas Pediatric and Congenital Heart Center, Department of 
+      Pediatrics, Johns Hopkins School of Medicine, Baltimore, Maryland, USA.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20230829
+PL  - United States
+TA  - CJC Pediatr Congenit Heart Dis
+JT  - CJC pediatric and congenital heart disease
+JID - 9918697364606676
+PMC - PMC10755786
+EDAT- 2024/01/02 11:46
+MHDA- 2024/01/02 11:47
+PMCR- 2023/08/29
+CRDT- 2024/01/01 04:08
+PHST- 2023/07/14 00:00 [received]
+PHST- 2023/08/24 00:00 [accepted]
+PHST- 2024/01/02 11:47 [medline]
+PHST- 2024/01/02 11:46 [pubmed]
+PHST- 2024/01/01 04:08 [entrez]
+PHST- 2023/08/29 00:00 [pmc-release]
+AID - S2772-8129(23)00124-0 [pii]
+AID - 10.1016/j.cjcpc.2023.08.005 [doi]
+PST - epublish
+SO  - CJC Pediatr Congenit Heart Dis. 2023 Aug 29;2(6Part A):440-452. doi: 
+      10.1016/j.cjcpc.2023.08.005. eCollection 2023 Dec.
+
+PMID- 38160172
+OWN - NLM
+STAT- Publisher
+LR  - 20231230
+IS  - 2405-4569 (Electronic)
+IS  - 2405-4569 (Linking)
+DP  - 2023 Dec 29
+TI  - Potential Applications of New Headsets for Virtual and Augmented Reality in 
+      Urology.
+LID - S2405-4569(23)00295-X [pii]
+LID - 10.1016/j.euf.2023.12.003 [doi]
+AB  - Virtual and augmented reality (VR/AR) technologies hold great promise in various 
+      medical fields. The release of a new generation of headsets for medical enhanced 
+      VR/AR (MER) opens new possibilities for applications in medicine, particularly in 
+      urology, to improve accessibility to everyone. These innovative headsets offer 
+      deep immersion without requiring a controller, which represents a novel approach 
+      to VR/AR engagement. The potential of these headsets applies to all aspects of 
+      urology, including surgical training, virtual meetings, communication between 
+      health care providers, patient counseling, telemedicine, delivering patient 
+      advice, and pain control. MER has the potential to improve operative planning and 
+      enhance intraoperative navigation and spatial awareness. The surgeon's 
+      visualization and overall experience can be significantly enhanced via improved 
+      guidance and visualization, ultimately leading to greater precision and safety. 
+      This cutting-edge technology has the potential to reshape urology practice, 
+      communication methods, and medical procedures, and ultimately to improve 
+      patients' experience of their urological condition. PATIENT SUMMARY: This mini 
+      review explores how a new generation of headsets for medical enhanced virtual 
+      reality could revolutionize urology by improving surgical planning, assistance 
+      during procedures, and medical education. Patients can benefit from better pain 
+      management and a deeper understanding of their conditions. However, challenges 
+      such as costs, accuracy, and ethical concerns must be addressed. This technology 
+      holds promise for transforming urological practice and patient care.
+CI  - Copyright © 2023 The Author(s). Published by Elsevier B.V. All rights reserved.
+FAU - Zattoni, Fabio
+AU  - Zattoni F
+AD  - Department of Surgery, Oncology, and Gastroenterology, Urological Unit, 
+      University of Padova, Padova, Italy. Electronic address: fabio.zattoni@unipd.it.
+FAU - Carletti, Filippo
+AU  - Carletti F
+AD  - Department of Surgery, Oncology, and Gastroenterology, Urological Unit, 
+      University of Padova, Padova, Italy.
+FAU - Randazzo, Gianmarco
+AU  - Randazzo G
+AD  - Department of Surgery, Oncology, and Gastroenterology, Urological Unit, 
+      University of Padova, Padova, Italy.
+FAU - Tuminello, Arianna
+AU  - Tuminello A
+AD  - Department of Surgery, Oncology, and Gastroenterology, Urological Unit, 
+      University of Padova, Padova, Italy.
+FAU - Betto, Giovanni
+AU  - Betto G
+AD  - Department of Surgery, Oncology, and Gastroenterology, Urological Unit, 
+      University of Padova, Padova, Italy.
+FAU - Novara, Giacomo
+AU  - Novara G
+AD  - Department of Surgery, Oncology, and Gastroenterology, Urological Unit, 
+      University of Padova, Padova, Italy.
+FAU - Dal Moro, Fabrizio
+AU  - Dal Moro F
+AD  - Department of Surgery, Oncology, and Gastroenterology, Urological Unit, 
+      University of Padova, Padova, Italy.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20231229
+PL  - Netherlands
+TA  - Eur Urol Focus
+JT  - European urology focus
+JID - 101665661
+SB  - IM
+OTO - NOTNLM
+OT  - Artificial intelligence
+OT  - Augmented reality
+OT  - Medical enhanced virtual reality
+OT  - Metaverse
+OT  - Urology
+OT  - Virtual reality
+EDAT- 2024/01/02 11:44
+MHDA- 2024/01/02 11:44
+CRDT- 2023/12/30 21:56
+PHST- 2023/10/08 00:00 [received]
+PHST- 2023/12/02 00:00 [revised]
+PHST- 2023/12/18 00:00 [accepted]
+PHST- 2024/01/02 11:44 [medline]
+PHST- 2024/01/02 11:44 [pubmed]
+PHST- 2023/12/30 21:56 [entrez]
+AID - S2405-4569(23)00295-X [pii]
+AID - 10.1016/j.euf.2023.12.003 [doi]
+PST - aheadofprint
+SO  - Eur Urol Focus. 2023 Dec 29:S2405-4569(23)00295-X. doi: 
+      10.1016/j.euf.2023.12.003.
