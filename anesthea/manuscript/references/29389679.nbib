@@ -1,0 +1,81 @@
+PMID- 29389679
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190903
+LR  - 20240318
+IS  - 1528-1140 (Electronic)
+IS  - 0003-4932 (Print)
+IS  - 0003-4932 (Linking)
+VI  - 268
+IP  - 1
+DP  - 2018 Jul
+TI  - Artificial Intelligence in Surgery: Promises and Perils.
+PG  - 70-76
+LID - 10.1097/SLA.0000000000002693 [doi]
+AB  - OBJECTIVE: The aim of this review was to summarize major topics in artificial 
+      intelligence (AI), including their applications and limitations in surgery. This 
+      paper reviews the key capabilities of AI to help surgeons understand and 
+      critically evaluate new AI applications and to contribute to new developments. 
+      SUMMARY BACKGROUND DATA: AI is composed of various subfields that each provide 
+      potential solutions to clinical problems. Each of the core subfields of AI 
+      reviewed in this piece has also been used in other industries such as the 
+      autonomous car, social networks, and deep learning computers. METHODS: A review 
+      of AI papers across computer science, statistics, and medical sources was 
+      conducted to identify key concepts and techniques within AI that are driving 
+      innovation across industries, including surgery. Limitations and challenges of 
+      working with AI were also reviewed. RESULTS: Four main subfields of AI were 
+      defined: (1) machine learning, (2) artificial neural networks, (3) natural 
+      language processing, and (4) computer vision. Their current and future 
+      applications to surgical practice were introduced, including big data analytics 
+      and clinical decision support systems. The implications of AI for surgeons and 
+      the role of surgeons in advancing the technology to optimize clinical 
+      effectiveness were discussed. CONCLUSIONS: Surgeons are well positioned to help 
+      integrate AI into modern practice. Surgeons should partner with data scientists 
+      to capture data across phases of care and to provide clinical context, for AI has 
+      the potential to revolutionize the way surgery is taught and practiced with the 
+      promise of a future optimized for the highest quality patient care.
+FAU - Hashimoto, Daniel A
+AU  - Hashimoto DA
+AD  - Department of Surgery, Massachusetts General Hospital, Boston, MA.
+FAU - Rosman, Guy
+AU  - Rosman G
+AD  - Computer Science and Artificial Intelligence Laboratory, Massachusetts Institute 
+      of Technology, Boston, MA.
+FAU - Rus, Daniela
+AU  - Rus D
+AD  - Computer Science and Artificial Intelligence Laboratory, Massachusetts Institute 
+      of Technology, Boston, MA.
+FAU - Meireles, Ozanan R
+AU  - Meireles OR
+AD  - Department of Surgery, Massachusetts General Hospital, Boston, MA.
+LA  - eng
+GR  - T32 DK007754/DK/NIDDK NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+PL  - United States
+TA  - Ann Surg
+JT  - Annals of surgery
+JID - 0372354
+SB  - IM
+CIN - Ann Surg. 2019 Jun;269(6):e75-e77. PMID: 31082926
+CIN - Ann Surg. 2019 Jun;269(6):e77-e78. PMID: 31082927
+MH  - *Artificial Intelligence
+MH  - Humans
+MH  - Physician's Role
+MH  - Surgeons
+MH  - Surgical Procedures, Operative/*methods
+PMC - PMC5995666
+MID - NIHMS951789
+EDAT- 2018/02/02 06:00
+MHDA- 2019/09/04 06:00
+PMCR- 2019/07/01
+CRDT- 2018/02/02 06:00
+PHST- 2018/02/02 06:00 [pubmed]
+PHST- 2019/09/04 06:00 [medline]
+PHST- 2018/02/02 06:00 [entrez]
+PHST- 2019/07/01 00:00 [pmc-release]
+AID - 10.1097/SLA.0000000000002693 [doi]
+PST - ppublish
+SO  - Ann Surg. 2018 Jul;268(1):70-76. doi: 10.1097/SLA.0000000000002693.

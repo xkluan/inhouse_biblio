@@ -1,0 +1,73 @@
+PMID- 35261595
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220310
+IS  - 1658-354X (Print)
+IS  - 0975-3125 (Electronic)
+VI  - 16
+IP  - 1
+DP  - 2022 Jan-Mar
+TI  - Artificial intelligence and anesthesia: A narrative review.
+PG  - 86-93
+LID - 10.4103/sja.sja_669_21 [doi]
+AB  - Rapid advances in Artificial Intelligence (AI) have led to diagnostic, 
+      therapeutic, and intervention-based applications in the field of medicine. Today, 
+      there is a deep chasm between AI-based research articles and their translation to 
+      clinical anesthesia, which needs to be addressed. Machine learning (ML), the most 
+      widely applied arm of AI in medicine, confers the ability to analyze large 
+      volumes of data, find associations, and predict outcomes with ongoing learning by 
+      the computer. It involves algorithm creation, testing and analyses with the 
+      ability to perform cognitive functions including association between variables, 
+      pattern recognition, and prediction of outcomes. AI-supported closed loops have 
+      been designed for pharmacological maintenance of anesthesia and hemodynamic 
+      management. Mechanical robots can perform dexterity and skill-based tasks such as 
+      intubation and regional blocks with precision, whereas clinical-decision support 
+      systems in crisis situations may augment the role of the clinician. The 
+      possibilities are boundless, yet widespread adoption of AI is still far from the 
+      ground reality. Patient-related "Big Data" collection, validation, transfer, and 
+      testing are under ethical scrutiny. For this narrative review, we conducted a 
+      PubMed search in 2020-21 and retrieved articles related to AI and anesthesia. 
+      After careful consideration of the content, we prepared the review to highlight 
+      the growing importance of AI in anesthesia. Awareness and understanding of the 
+      basics of AI are the first steps to be undertaken by clinicians. In this 
+      narrative review, we have discussed salient features of ongoing AI research 
+      related to anesthesia and perioperative care.
+CI  - Copyright: © 2022 Saudi Journal of Anesthesia.
+FAU - Singh, Madhavi
+AU  - Singh M
+AD  - Department of Anesthesia, Apollo Institute of Medical Sciences and Research 
+      (AIMSR), Hyderabad, Telangana, India.
+FAU - Nath, Gita
+AU  - Nath G
+AD  - Department of Anesthesia, Axon Anesthesia Associates, Hyderabad, Telangana, 
+      India.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20220104
+PL  - India
+TA  - Saudi J Anaesth
+JT  - Saudi journal of anaesthesia
+JID - 101500601
+PMC - PMC8846233
+OTO - NOTNLM
+OT  - Advances in anesthesia
+OT  - artificial intelligence
+OT  - machine learning
+COIS- There are no conflicts of interest.
+EDAT- 2022/03/10 06:00
+MHDA- 2022/03/10 06:01
+PMCR- 2022/01/01
+CRDT- 2022/03/09 08:44
+PHST- 2021/09/13 00:00 [received]
+PHST- 2021/09/12 00:00 [revised]
+PHST- 2021/09/14 00:00 [accepted]
+PHST- 2022/03/09 08:44 [entrez]
+PHST- 2022/03/10 06:00 [pubmed]
+PHST- 2022/03/10 06:01 [medline]
+PHST- 2022/01/01 00:00 [pmc-release]
+AID - SJA-16-86 [pii]
+AID - 10.4103/sja.sja_669_21 [doi]
+PST - ppublish
+SO  - Saudi J Anaesth. 2022 Jan-Mar;16(1):86-93. doi: 10.4103/sja.sja_669_21. Epub 2022 
+      Jan 4.

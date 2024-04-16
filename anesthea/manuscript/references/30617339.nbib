@@ -1,0 +1,61 @@
+PMID- 30617339
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190510
+LR  - 20230908
+IS  - 1546-170X (Electronic)
+IS  - 1078-8956 (Linking)
+VI  - 25
+IP  - 1
+DP  - 2019 Jan
+TI  - High-performance medicine: the convergence of human and artificial intelligence.
+PG  - 44-56
+LID - 10.1038/s41591-018-0300-7 [doi]
+AB  - The use of artificial intelligence, and the deep-learning subtype in particular, 
+      has been enabled by the use of labeled big data, along with markedly enhanced 
+      computing power and cloud storage, across all sectors. In medicine, this is 
+      beginning to have an impact at three levels: for clinicians, predominantly via 
+      rapid, accurate image interpretation; for health systems, by improving workflow 
+      and the potential for reducing medical errors; and for patients, by enabling them 
+      to process their own data to promote health. The current limitations, including 
+      bias, privacy and security, and lack of transparency, along with the future 
+      directions of these applications will be discussed in this article. Over time, 
+      marked improvements in accuracy, productivity, and workflow will likely be 
+      actualized, but whether that will be used to improve the patient-doctor 
+      relationship or facilitate its erosion remains to be seen.
+FAU - Topol, Eric J
+AU  - Topol EJ
+AUID- ORCID: 0000-0002-1478-4729
+AD  - Department of Molecular Medicine, Scripps Research, La Jolla, CA, USA. 
+      etopol@scripps.edu.
+LA  - eng
+GR  - UL1TR002550/NH/NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Review
+DEP - 20190107
+PL  - United States
+TA  - Nat Med
+JT  - Nature medicine
+JID - 9502015
+SB  - IM
+CIN - Indian J Med Ethics. 2023 Apr-Jun;VIII(2):93-94. PMID: 37401180
+MH  - Algorithms
+MH  - *Artificial Intelligence
+MH  - Data Analysis
+MH  - Deep Learning
+MH  - Humans
+MH  - *Medicine
+MH  - Physicians
+EDAT- 2019/01/09 06:00
+MHDA- 2019/05/11 06:00
+CRDT- 2019/01/09 06:00
+PHST- 2018/08/16 00:00 [received]
+PHST- 2018/11/12 00:00 [accepted]
+PHST- 2019/01/09 06:00 [entrez]
+PHST- 2019/01/09 06:00 [pubmed]
+PHST- 2019/05/11 06:00 [medline]
+AID - 10.1038/s41591-018-0300-7 [pii]
+AID - 10.1038/s41591-018-0300-7 [doi]
+PST - ppublish
+SO  - Nat Med. 2019 Jan;25(1):44-56. doi: 10.1038/s41591-018-0300-7. Epub 2019 Jan 7.

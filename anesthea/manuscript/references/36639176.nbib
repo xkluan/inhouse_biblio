@@ -1,0 +1,76 @@
+PMID- 36639176
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230117
+LR  - 20230210
+IS  - 1365-229X (Electronic)
+IS  - 0009-9260 (Linking)
+VI  - 78
+IP  - 2
+DP  - 2023 Feb
+TI  - The top 100 most cited articles on artificial intelligence in radiology: a 
+      bibliometric analysis.
+PG  - 99-106
+LID - S0009-9260(22)00706-1 [pii]
+LID - 10.1016/j.crad.2022.09.133 [doi]
+AB  - AIM: To identify the most influential publications relating to artificial 
+      intelligence (AI) in radiology in order to identify current trends in the 
+      literature and to highlight areas requiring further research. MATERIALS AND 
+      METHODS: A retrospective bibliometric analysis was performed of the top 100 most 
+      cited articles on this topic. Data pertaining to year of publication, publishing 
+      journal, journal impact factor, authorship, article title, institution, country, 
+      type of article, article subject, and keywords were collected. RESULTS: The 
+      number of citations per article for the top 100 list ranged from 254 to 3,576 
+      (median 353). The number of citations per year, per article ranged from 10.4 to 
+      894 (median 65.6). The majority of articles (n=62) were published within the last 
+      10 years. The USA was the most common country of origin (n=44). The journal with 
+      the greatest number of articles was IEEE Transactions On Medical Imaging (n=38). 
+      University Medical Center Utrecht contributed the greatest number of articles 
+      (n=6). There were 92 original research articles, 52 of which were clinical 
+      studies. The most common clinical subjects were neuroimaging (n=25) and oncology 
+      (n=16). The most common keyword used was "deep learning" (n=34). CONCLUSION: This 
+      study provides an in-depth analysis of the top 100 most-cited papers on the use 
+      of AI in radiology. It also provides researchers with detailed insight into the 
+      current influential papers in this field, the characteristics of those studies, 
+      as well as potential future trends in this fast-developing area of radiology.
+CI  - Copyright © 2022 The Royal College of Radiologists. Published by Elsevier Ltd. 
+      All rights reserved.
+FAU - Hughes, H
+AU  - Hughes H
+AD  - Department of Radiology, St Vincent's University Hospital, Dublin, 4, Ireland. 
+      Electronic address: h.hughes07@gmail.com.
+FAU - O'Reilly, M
+AU  - O'Reilly M
+AD  - Department of Radiology, Cork University Hospital, Wilton, Co. Cork, Ireland.
+FAU - McVeigh, N
+AU  - McVeigh N
+AD  - Department of Radiology, St Vincent's University Hospital, Dublin, 4, Ireland.
+FAU - Ryan, R
+AU  - Ryan R
+AD  - Department of Radiology, St Vincent's University Hospital, Dublin, 4, Ireland.
+LA  - eng
+PT  - Journal Article
+PL  - England
+TA  - Clin Radiol
+JT  - Clinical radiology
+JID - 1306016
+SB  - IM
+MH  - Humans
+MH  - *Artificial Intelligence
+MH  - Retrospective Studies
+MH  - Bibliometrics
+MH  - *Radiology
+MH  - Neuroimaging
+EDAT- 2023/01/14 06:00
+MHDA- 2023/01/18 06:00
+CRDT- 2023/01/13 20:58
+PHST- 2022/08/16 00:00 [received]
+PHST- 2022/09/12 00:00 [revised]
+PHST- 2022/09/16 00:00 [accepted]
+PHST- 2023/01/13 20:58 [entrez]
+PHST- 2023/01/14 06:00 [pubmed]
+PHST- 2023/01/18 06:00 [medline]
+AID - S0009-9260(22)00706-1 [pii]
+AID - 10.1016/j.crad.2022.09.133 [doi]
+PST - ppublish
+SO  - Clin Radiol. 2023 Feb;78(2):99-106. doi: 10.1016/j.crad.2022.09.133.
